@@ -1,2 +1,8 @@
 # github-final-project
-You are asked to host their sample code to calculate simple interest on GitHub in a new repository as the first step in this journey
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
